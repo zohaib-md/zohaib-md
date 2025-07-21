@@ -36,15 +36,15 @@
 <h3 align="center">⚒️ Languages & Tools:</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Room-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/Retrofit-FF5722?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ---
@@ -52,7 +52,7 @@
 <h3 align="center">📊 My GitHub Stats:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mzohaib&show_icons=true&theme=tokyonight&hide_border=true" alt="Zohaib's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mzohaib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=false" alt="Zohaib's GitHub Stats"/>
 </p>
 
 <p align="center">
@@ -60,7 +60,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzohaib&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzohaib&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&custom_title=Most%20Used%20Languages&hide=html,css,scss,js" alt="Top Languages"/>
 </p>
 
 ---
@@ -68,8 +68,5 @@
 <h3 align="center">✨ Fun Fact:</h3>
 
 <p align="center">
-  I love solving problems, building apps, and reading books when I’m not coding.
+  ☕ I run on code, coffee & curiosity.
 </p>
-
----
-
