@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Zohaib</h1>
-<h3 align="center">A passionate second year engineering student pursuing B.Tech in Information Technology</h3>
+<h3 align="center">A fascinated third year engineering student pursuing B.Tech in Information Technology</h3>
 
 - 🌱 I’m currently learning **DSA and Android Development**
 
