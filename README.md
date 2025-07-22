@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hey there, I’m Mohammad Zohaib ✨</h1>
+<h1 align="center"> Hey there, I’m Mohammad Zohaib </h1>
 
 <p align="center">
   📚 Third-year B.Tech IT Student • 📱 Android Enthusiast • 🚀 Lifelong Learner
@@ -6,7 +6,7 @@
 
 ---
 
-<h3 align="center">🌱 Currently Growing In:</h3>
+<h3 align="center">Currently Growing In:</h3>
 
 <p align="center">
   <b>Data Structures & Algorithms • Android Development • Room DB & Retrofit</b>
