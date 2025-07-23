@@ -49,19 +49,7 @@
 
 ---
 
-<h3 align="center">📊 My GitHub Stats:</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mzohaib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=false" alt="Zohaib's GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mzohaib&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzohaib&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&custom_title=Most%20Used%20Languages&hide=html,css,scss,js" alt="Top Languages"/>
-</p>
+ˇ
 
 ---
 
