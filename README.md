@@ -6,7 +6,7 @@
 
 ---
 
-<h3 align="center">🌱 Currently Growing In:</h3>
+<h3 align="center">Currently Growing In:</h3>
 
 <p align="center">
   <b>Data Structures & Algorithms • Android Development • Room DB & Retrofit</b>
@@ -52,15 +52,15 @@
 <h3 align="center">📊 My GitHub Stats:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mzohaib&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="Zohaib's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mzohaib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=false" alt="Zohaib's GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mzohaib&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mzohaib&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzohaib&layout=compact&theme=github_dark&hide_border=true&langs_count=8&custom_title=Most%20Used%20Languages&hide=html,css,scss,js" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzohaib&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&custom_title=Most%20Used%20Languages&hide=html,css,scss,js" alt="Top Languages"/>
 </p>
 
 ---
