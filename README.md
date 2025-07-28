@@ -68,5 +68,5 @@
 <h3 align="center">✨ Fun Fact:</h3>
 
 <p align="center">
-  ☕ I run on code, coffee & Kotlin. 📱
+  ☕ I run on code, coffee, books & Kotlin. 📱
 </p>
