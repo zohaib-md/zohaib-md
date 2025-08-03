@@ -1,30 +1,32 @@
-<h1 align="center"> Hey there, I’m Mohammad Zohaib </h1>
+<h1 align="center">👋 Hey there, I'm Mohammad Zohaib</h1>
 
 <p align="center">
-  📚 Third-year B.Tech IT Student • 📱 Android Enthusiast • 🚀 Lifelong Learner
+  📚 Third-year B.Tech IT Student &nbsp;•&nbsp; 📱 Android Enthusiast &nbsp;•&nbsp; 🚀 Lifelong Learner
 </p>
 
 ---
 
-<h3 align="center">Currently Growing In:</h3>
+<h3 align="center">🚧 Currently Leveling Up In:</h3>
 
 <p align="center">
-  <b>Data Structures & Algorithms • Android Development • Room DB & Retrofit</b>
+  <b>Data Structures & Algorithms</b> &nbsp;•&nbsp;
+  <b>Android Development</b> &nbsp;•&nbsp;
+  <b>Room DB & Retrofit</b>
 </p>
 
 ---
 
-<h3 align="center">📫 Reach Me Here:</h3>
+<h3 align="center">📬 Connect With Me</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammad-zohaib-279794204/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:zohaib.tm2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://instagram.com/mzohaib_22" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.hackerrank.com/@mohdzohaib326" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
@@ -33,7 +35,7 @@
 
 ---
 
-<h3 align="center">⚒️ Languages & Tools:</h3>
+<h3 align="center">🛠️ Tech Stack & Tools</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
@@ -49,10 +51,10 @@
 
 ---
 
-<h3 align="center">📊 My GitHub Stats:</h3>
+<h3 align="center">📈 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mzohaib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_title=false" alt="Zohaib's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mzohaib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Zohaib's GitHub Stats"/>
 </p>
 
 <p align="center">
@@ -65,8 +67,8 @@
 
 ---
 
-<h3 align="center">✨ Fun Fact:</h3>
+<h3 align="center">✨ Fun Fact</h3>
 
 <p align="center">
-  ☕ I run on code, coffee, books & Kotlin. 📱
+  ☕ I run on code, coffee, books & Kotlin.
 </p>
