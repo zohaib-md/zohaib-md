@@ -54,11 +54,10 @@
 
 ---
 
-## ⏳ Coding Activity (WakaTime)
+## ⏳ Coding Portfolio (Codolio)
 <div align="center">
 
-<!-- Connect your WakaTime account for this to work -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@YOUR_WAKATIME_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="WakaTime Stats" />
+![Codolio Card](https://codolio.com/profile/Mzohaib/card)
 
 </div>
 
@@ -95,7 +94,3 @@
 I run on **code, coffee, books & Kotlin**.
 
 ---
-
-### 📝 Notes
-- The **Top Languages card** shows code size across repos, not actual coding time.  
-- To make Kotlin show up more, exclude repos with Python:  
