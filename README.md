@@ -1,66 +1,97 @@
-<!-- README.md - Mohammad Zohaib -->
+<div align="center">
 
-<h1 align="center">👋 Hey there, I'm Mohammad Zohaib</h1>
-<p align="center">
-  📚 Third-year B.Tech IT Student &nbsp;•&nbsp; 📱 Android Enthusiast &nbsp;•&nbsp; 🚀 Lifelong Learner
-</p>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,30:1a0533,60:3b0f7a,100:7F52FF&height=220&section=header&text=Android%20Developer&fontSize=48&fontColor=ffffff&fontAlignY=45&desc=Kotlin%20%E2%80%A2%20Jetpack%20Compose%20%E2%80%A2%20MVVM%20%E2%80%A2%20Clean%20Architecture&descSize=15&descAlignY=65&descColor=c4b5fd&animation=fadeIn&stroke=7F52FF&strokeWidth=1" />
 
----
+### Mohammad Zohaib
 
-<h3 align="center">🚧 Currently Leveling Up In:</h3>
-<p align="center">
-  <strong>Data Structures & Algorithms</strong> &nbsp;•&nbsp; <strong>Android Development</strong> &nbsp;•&nbsp; <strong>Room DB & Retrofit</strong>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=400&size=14&duration=3200&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&height=40&lines=Android+Developer+%40+LettrBlack;Building+AI-powered+mobile+applications;Kotlin+%7C+Jetpack+Compose+%7C+Coroutines+%7C+MVVM;Writing+clean+code+that+scales+%F0%9F%9A%80)](https://git.io/typing-svg)
 
----
+<br/>
 
-<h3 align="center">📬 Connect With Me</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohammad-zohaib-279794204/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:zohaib.tm2@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://instagram.com/mzohaib_22" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.hackerrank.com/@mohdzohaib326" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad_Zohaib-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-zohaib-279794204/)
+[![Blog](https://img.shields.io/badge/Blog-mzohaib.hashnode.dev-2962ff?style=flat-square&logo=hashnode&logoColor=white)](https://mzohaib.hashnode.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-zohaib--md-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zohaib-md)
+[![Profile Views](https://komarev.com/ghpvc/?username=zohaib-md&style=flat-square&color=7F52FF&label=Profile+Views)](https://github.com/zohaib-md)
+
+</div>
 
 ---
 
-<h3 align="center">🛠️ Tech Stack & Tools</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Room-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Retrofit-FF5722?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-</p>
+## &nbsp;About
+
+I'm an **Android Developer** focused on building clean, modern, and meaningful mobile applications. I care deeply about architecture, user experience, and writing code that lasts.
+
+```kotlin
+object MohammadZohaib {
+    val role       = "Android Developer Head @ LettrBlack"
+    val education  = "B.Tech Information Technology"
+    val stack      = listOf("Kotlin", "Jetpack Compose", "MVVM", "Coroutines")
+    val exploring  = "AI-powered mobile applications"
+    val writing    = "mzohaib.hashnode.dev"
+    val location   = "Ghaziabad, India"
+}
+```
 
 ---
 
-<h3 align="center">📈 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mzohaib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Zohaib's GitHub Stats"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mzohaib&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzohaib&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&custom_title=Most%20Used%20Languages&hide=html,css,scss,js" alt="Top Languages"/>
-</p>
+## &nbsp;Tech Stack
+
+**Languages**
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+**Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**Android Development**
+
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-3DDC84?style=flat-square&logo=android&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-4285F4?style=flat-square&logo=google&logoColor=white)
+![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![StateFlow](https://img.shields.io/badge/StateFlow-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Retrofit](https://img.shields.io/badge/Retrofit-009688?style=flat-square&logo=square&logoColor=white)
+![Room DB](https://img.shields.io/badge/Room_DB-6DB33F?style=flat-square&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![DataStore](https://img.shields.io/badge/DataStore-4285F4?style=flat-square&logo=google&logoColor=white)
+
+**Tools & Environment**
+
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-<h3 align="center">✨ Fun Fact</h3>
-<p align="center">
-  ☕ I run on code, coffee, books & Kotlin.
-</p>
+## &nbsp;GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=zohaib-md&show_icons=true&theme=dark&hide_border=true&bg_color=09090b&title_color=a78bfa&icon_color=7F52FF&text_color=c4b5fd&ring_color=7F52FF&include_all_commits=true&count_private=true" />
+&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zohaib-md&layout=compact&theme=dark&hide_border=true&bg_color=09090b&title_color=a78bfa&text_color=c4b5fd&langs_count=6" />
+
+<br/><br/>
+
+<img width="480" src="https://streak-stats.demolab.com/?user=zohaib-md&hide_border=true&background=09090b&ring=7F52FF&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=71717a&currStreakNum=fafafa&sideNums=c4b5fd&dates=52525b&stroke=27272a" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,50:1a1a2e,100:09090b&height=100&section=footer&fontSize=14&fontColor=71717a" />
+
+*Building thoughtful software, one idea at a time.*
+
+</div>
