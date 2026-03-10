@@ -4,7 +4,7 @@
 
 ### Mohammad Zohaib
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=400&size=14&duration=3200&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&height=40&lines=Android+Developer+%40+LettrBlack;Building+AI-powered+mobile+applications;Kotlin+%7C+Jetpack+Compose+%7C+Coroutines+%7C+MVVM;Writing+clean+code+that+scales+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=400&size=14&duration=3200&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&height=40&lines=Building+AI-powered+mobile+applications;Kotlin+%7C+Jetpack+Compose+%7C+Coroutines+%7C+MVVM;Writing+clean+code+that+scales+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
