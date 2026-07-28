@@ -23,10 +23,10 @@ I'm an **Android Developer** focused on building clean, modern, and meaningful m
 
 ```kotlin
 object MohammadZohaib {
-    val role       = "Android Developer Head @ LettrBlack"
+    val role       = "Software Dev Intern @ Hyperzod"
     val education  = "B.Tech Information Technology"
-    val stack      = listOf("Kotlin", "Jetpack Compose", "MVVM", "Coroutines")
-    val exploring  = "AI-powered mobile applications"
+    val stack      = listOf("Kotlin", "Jetpack Compose", "MVVM", "Coroutines", "PHP", "Laravel", "Vue.js")
+    val exploring  = "Agentic Systems & Multi-Agent Engineering"
     val writing    = "mzohaib.hashnode.dev"
     val location   = "Ghaziabad, India"
 }
@@ -41,11 +41,14 @@ object MohammadZohaib {
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 **Backend & Databases**
 
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -83,6 +86,16 @@ object MohammadZohaib {
 <br/><br/>
 
 <img width="480" src="https://streak-stats.demolab.com/?user=zohaib-md&hide_border=true&background=09090b&ring=7F52FF&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=71717a&currStreakNum=fafafa&sideNums=c4b5fd&dates=52525b&stroke=27272a" />
+
+</div>
+
+---
+
+## &nbsp;Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/zohaib-md/zohaib-md/output/github-contribution-grid-snake-dark.svg" alt="snake-animation" />
 
 </div>
 
