@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,30:1a0533,60:3b0f7a,100:7F52FF&height=220&section=header&text=Android%20Developer&fontSize=48&fontColor=ffffff&fontAlignY=45&desc=Kotlin%20%E2%80%A2%20Jetpack%20Compose%20%E2%80%A2%20MVVM%20%E2%80%A2%20Clean%20Architecture&descSize=15&descAlignY=65&descColor=c4b5fd&animation=fadeIn&stroke=7F52FF&strokeWidth=1" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,30:1a0533,60:3b0f7a,100:7F52FF&height=220&section=header&text=Software%20Developer&fontSize=48&fontColor=ffffff&fontAlignY=45&desc=Kotlin%20%E2%80%A2%20Jetpack%20Compose%20%E2%80%A2%20MVVM%20%E2%80%A2%20Clean%20Architecture&descSize=15&descAlignY=65&descColor=c4b5fd&animation=fadeIn&stroke=7F52FF&strokeWidth=1" />
 
 ### Mohammad Zohaib
 
