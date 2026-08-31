@@ -159,24 +159,14 @@ Lately I'm hooked on **AI orchestration** — multi-agent systems that collabora
 
 ---
 
-## `~/` wakatime
-
-<div align="center">
-
-<img src="assets/metrics.plugin.wakatime.svg" width="100%" alt="WakaTime activity over the last week">
-
-</div>
-
----
-
 ## Snapshot
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark_mode.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/light_mode.svg">
-  <img alt="Mohammad Zohaib snapshot" src="assets/dark_mode.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/snapshot-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/snapshot-light.svg">
+  <img alt="Mohammad Zohaib snapshot" src="assets/snapshot-dark.svg" width="100%">
 </picture>
 
 </div>
