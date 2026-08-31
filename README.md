@@ -193,4 +193,6 @@ Lately I'm hooked on **AI orchestration** — multi-agent systems that collabora
 
 *Building thoughtful software, one idea at a time.*
 
+<img src="assets/thanks-marquee.svg" width="100%" alt="Thanks for visiting my profile">
+
 </div>

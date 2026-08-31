@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 36" width="900" height="36" role="img" aria-label="Thanks for visiting my profile">
+  <style>
+    .marquee {
+      font-family: ui-sans-serif, -apple-system, Segoe UI, Helvetica, Arial, sans-serif;
+      font-size: 15px;
+      font-style: italic;
+      fill: #c4b5fd;
+      letter-spacing: 0.04em;
+    }
+  </style>
+  <g>
+    <text class="marquee" x="0" y="24">Thanks for visiting my profile  ·  Thanks for visiting my profile  ·  Thanks for visiting my profile  ·  Thanks for visiting my profile  ·  Thanks for visiting my profile  ·  Thanks for visiting my profile  ·  </text>
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      from="900 0"
+      to="-1600 0"
+      dur="22s"
+      repeatCount="indefinite"/>
+  </g>
+</svg>
