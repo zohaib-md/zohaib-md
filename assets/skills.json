@@ -1,0 +1,12 @@
+{
+  "title": "Skill Radar",
+  "axes": [
+    { "label": "Kotlin", "value": 88 },
+    { "label": "Compose", "value": 84 },
+    { "label": "Android", "value": 86 },
+    { "label": "Laravel", "value": 76 },
+    { "label": "Vue.js", "value": 72 },
+    { "label": "Python", "value": 68 },
+    { "label": "LangGraph", "value": 74 }
+  ]
+}

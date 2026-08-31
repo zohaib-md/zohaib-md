@@ -75,6 +75,43 @@ object MohammadZohaib {
 
 ---
 
+<div align="center">
+
+## `~/` skill radar
+
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
+<img src="assets/radar-dark.svg" width="440" alt="skill radar chart">
+</picture>
+</td>
+<td width="50%" align="center" valign="middle">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
+<img src="assets/radar-langs-dark.svg" width="440" alt="language radar chart">
+</picture>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## `~/` contribution calendar
+
+<img src="assets/metrics.isocalendar.svg" width="90%" alt="3D isometric contribution calendar">
+
+</div>
+
+---
+
 ## &nbsp;GitHub Stats
 
 <div align="center">
