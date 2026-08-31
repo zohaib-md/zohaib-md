@@ -17,20 +17,20 @@
 
 ---
 
-## &nbsp;About
+## `~/` whoami
 
-I'm an **Android Developer** focused on building clean, modern, and meaningful mobile applications. I care deeply about architecture, user experience, and writing code that lasts.
-
-```kotlin
-object MohammadZohaib {
-    val role       = "Software Dev Intern @ Hyperzod"
-    val education  = "B.Tech Information Technology"
-    val stack      = listOf("Kotlin", "Jetpack Compose", "MVVM", "Coroutines", "PHP", "Laravel", "Vue.js")
-    val exploring  = "Agentic Systems & Multi-Agent Engineering"
-    val writing    = "mzohaib.hashnode.dev"
-    val location   = "Ghaziabad, India"
-}
+```console
+$ cat about.txt
 ```
+
+Hi, I'm **Mohammad Zohaib**. Android engineer and software developer — I work across mobile, backend, and agentic AI.
+
+Android Engineer • Kotlin • Jetpack Compose • Laravel • LangGraph
+
+- Currently: **Software Development Intern @ [Hyperzod](https://www.hyperzod.com)** — multi-tenant integrations and multi-agent orchestration
+- Previously: **Android Developer Head @ Lettrblack** — led a team of 5 and shipped production Compose apps
+- Writing: **[mzohaib.hashnode.dev](https://mzohaib.hashnode.dev)**
+- Education: **B.Tech Information Technology, AKGEC (2023–2027)**
 
 ---
 
