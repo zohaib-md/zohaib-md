@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,30:1a0533,60:3b0f7a,100:7F52FF&height=220&section=header&text=Android%20Developer&fontSize=48&fontColor=ffffff&fontAlignY=45&desc=Kotlin%20%E2%80%A2%20Jetpack%20Compose%20%E2%80%A2%20MVVM%20%E2%80%A2%20Clean%20Architecture&descSize=15&descAlignY=65&descColor=c4b5fd&animation=fadeIn&stroke=7F52FF&strokeWidth=1" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,30:1a0533,60:3b0f7a,100:7F52FF&height=220&section=header&text=Software%20Engineer&fontSize=48&fontColor=ffffff&fontAlignY=45&desc=Android%20%E2%80%A2%20Backend%20%E2%80%A2%20Agentic%20AI&descSize=15&descAlignY=65&descColor=c4b5fd&animation=fadeIn&stroke=7F52FF&strokeWidth=1" />
 
 ### Mohammad Zohaib
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=400&size=14&duration=3200&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&height=40&lines=Building+production+Android+applications;Kotlin+%7C+Jetpack+Compose+%7C+MVVM+%7C+Clean+Architecture;Writing+code+that+scales)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist+Mono&weight=400&size=14&duration=3200&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&height=40&lines=Android+engineer+%E2%80%A2+Backend+%E2%80%A2+Agentic+AI;Kotlin+%7C+Jetpack+Compose+%7C+Laravel+%7C+LangGraph;Building+across+the+stack)](https://git.io/typing-svg)
 
 <br/>
 
