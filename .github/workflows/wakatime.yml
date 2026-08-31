@@ -1,0 +1,36 @@
+name: WakaTime
+
+on:
+  schedule:
+    - cron: "0 2 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/wakatime.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  wakatime:
+    runs-on: ubuntu-latest
+    env:
+      WAKATIME_TOKEN: ${{ secrets.WAKATIME_TOKEN }}
+    steps:
+      - name: WakaTime
+        if: ${{ env.WAKATIME_TOKEN != '' }}
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: zohaib-md
+          base: ""
+          filename: assets/metrics.plugin.wakatime.svg
+          config_timezone: Asia/Kolkata
+          plugin_wakatime: yes
+          plugin_wakatime_days: 7
+          plugin_wakatime_languages_other: yes
+          plugin_wakatime_sections: >-
+            time, projects, projects-graphs, languages, languages-graphs,
+            editors, os
+          plugin_wakatime_token: ${{ env.WAKATIME_TOKEN }}

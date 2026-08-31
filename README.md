@@ -159,6 +159,16 @@ Lately I'm hooked on **AI orchestration** — multi-agent systems that collabora
 
 ---
 
+## `~/` wakatime
+
+<div align="center">
+
+<img src="assets/metrics.plugin.wakatime.svg" width="100%" alt="WakaTime activity over the last week">
+
+</div>
+
+---
+
 ## Snapshot
 
 <div align="center">
