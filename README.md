@@ -19,7 +19,7 @@
 
 ## `~/` whoami
 
-<img align="right" width="280" alt="coding" src="assets/whoami.gif" />
+<img align="right" width="280" alt="coding" src="assets/coding.gif" />
 
 ```console
 $ cat about.txt
