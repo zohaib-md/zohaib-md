@@ -19,6 +19,8 @@
 
 ## `~/` whoami
 
+<img align="right" width="280" alt="coding" src="assets/coding.gif" />
+
 ```console
 $ cat about.txt
 ```
@@ -31,6 +33,8 @@ Lately I'm hooked on **AI orchestration** — multi-agent systems that collabora
 - Previously: **Android Developer Head @ Lettrblack** — led a team of 5 and shipped production apps
 - Writing: **[mzohaib.hashnode.dev](https://mzohaib.hashnode.dev)**
 - Education: **B.Tech Information Technology, AKGEC (2023–2027)**
+
+<br clear="both"/>
 
 ---
 
