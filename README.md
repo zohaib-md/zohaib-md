@@ -128,9 +128,9 @@ Lately I'm hooked on **AI orchestration** — multi-agent systems that collabora
 
 <div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=zohaib-md&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
+![](https://github-readme-stats.shion.dev/api?username=zohaib-md&theme=dark&hide_border=false&show_icons=true)<br/>
 ![](https://streak-stats.demolab.com/?user=zohaib-md&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=zohaib-md&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=zohaib-md&theme=dark&hide_border=false&layout=compact)
 
 </div>
 
