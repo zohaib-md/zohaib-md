@@ -23,14 +23,14 @@
 $ cat about.txt
 ```
 
-Hi, I'm **Mohammad Zohaib**. Android engineer — I build production apps with Kotlin, Jetpack Compose, and clean architecture.
+Hi, I'm **Mohammad Zohaib**. Software developer — I ship across mobile, backend, and AI, and pick up whatever stack the problem needs.
 
 Lately I'm hooked on **AI orchestration** — multi-agent systems that collaborate in production, not just demos.
 
-Kotlin • Jetpack Compose • MVVM • Clean Architecture
+Kotlin • Laravel • Vue.js • LangGraph
 
 - Currently: **Software Development Intern @ [Hyperzod](https://www.hyperzod.com)** — multi-tenant integrations and multi-agent orchestration
-- Previously: **Android Developer Head @ Lettrblack** — led a team of 5, shipping Compose apps with MVVM and Clean Architecture
+- Previously: **Android Developer Head @ Lettrblack** — led a team of 5 and shipped production apps
 - Writing: **[mzohaib.hashnode.dev](https://mzohaib.hashnode.dev)**
 - Education: **B.Tech Information Technology, AKGEC (2023–2027)**
 
