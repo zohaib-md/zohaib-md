@@ -124,17 +124,13 @@ Lately I'm hooked on **AI orchestration** — multi-agent systems that collabora
 
 ---
 
-## &nbsp;GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32" alt="" /> GitHub Stats
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=zohaib-md&show_icons=true&theme=dark&hide_border=true&bg_color=09090b&title_color=a78bfa&icon_color=7F52FF&text_color=c4b5fd&ring_color=7F52FF&include_all_commits=true&count_private=true" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zohaib-md&layout=compact&theme=dark&hide_border=true&bg_color=09090b&title_color=a78bfa&text_color=c4b5fd&langs_count=6" />
-
-<br/><br/>
-
-<img width="480" src="https://streak-stats.demolab.com/?user=zohaib-md&hide_border=true&background=09090b&ring=7F52FF&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=71717a&currStreakNum=fafafa&sideNums=c4b5fd&dates=52525b&stroke=27272a" />
+![](https://github-readme-stats.shion.dev/api?username=zohaib-md&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
+![](https://streak-stats.demolab.com/?user=zohaib-md&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=zohaib-md&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
