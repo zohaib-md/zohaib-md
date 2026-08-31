@@ -40,6 +40,25 @@ Lately I'm hooked on **AI orchestration** — multi-agent systems that collabora
 
 ## `~/` toolbox <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28" alt="" />
 
+### Technical Skills
+<div align="center">
+  <a href="https://www.python.org" target="_blank"><img src="skills/python.svg" alt="Python" width="50" height="50" /></a>
+  &nbsp;
+  <a href="https://www.djangoproject.com" target="_blank"><img src="skills/django.svg" alt="Django" width="50" height="50" /></a>
+  &nbsp;
+  <a href="https://react.dev" target="_blank"><img src="skills/react.svg" alt="React" width="50" height="50" /></a>
+  &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="skills/javascript.svg" alt="JavaScript" width="50" height="50" /></a>
+  &nbsp;
+  <a href="https://www.typescriptlang.org" target="_blank"><img src="skills/typescript.svg" alt="TypeScript" width="50" height="50" /></a>
+  &nbsp;
+  <a href="https://github.com" target="_blank"><img src="skills/github.svg" alt="GitHub" width="50" height="50" /></a>
+  &nbsp;
+  <a href="https://www.mysql.com" target="_blank"><img src="skills/mysql.svg" alt="MySQL" width="50" height="50" /></a>
+  &nbsp;
+  <a href="https://www.docker.com" target="_blank"><img src="skills/docker.svg" alt="Docker" width="50" height="50" /></a>
+</div>
+
 ### <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="28" alt="" /> Languages
 <p>
   <a href="https://kotlinlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /></a>
