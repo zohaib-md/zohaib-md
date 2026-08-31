@@ -140,6 +140,20 @@ Lately I'm hooked on **AI orchestration** — multi-agent systems that collabora
 
 ---
 
+## Snapshot
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark_mode.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/light_mode.svg">
+  <img alt="Mohammad Zohaib snapshot" src="assets/dark_mode.svg" width="100%">
+</picture>
+
+</div>
+
+---
+
 ## &nbsp;Contribution Snake
 
 <div align="center">
