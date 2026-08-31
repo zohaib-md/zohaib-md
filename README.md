@@ -189,10 +189,8 @@ Lately I'm hooked on **AI orchestration** — multi-agent systems that collabora
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,50:1a1a2e,100:09090b&height=100&section=footer&fontSize=14&fontColor=71717a" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F52FF,50:1a1a2e,100:09090b&height=140&section=footer&text=Thanks%20for%20visiting%20my%20profile&fontSize=22&fontColor=ffffff&fontAlignY=75" alt="Thanks for visiting my profile" />
 
 *Building thoughtful software, one idea at a time.*
-
-<img src="assets/thanks-marquee.gif" width="100%" alt="Thanks for visiting my profile">
 
 </div>
