@@ -8,10 +8,10 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohammad_Zohaib-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-zohaib-279794204/)
-[![Blog](https://img.shields.io/badge/Blog-mzohaib.hashnode.dev-2962ff?style=flat-square&logo=hashnode&logoColor=white)](https://mzohaib.hashnode.dev)
-[![GitHub](https://img.shields.io/badge/GitHub-zohaib--md-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/zohaib-md)
-[![Profile Views](https://komarev.com/ghpvc/?username=zohaib-md&style=flat-square&color=7F52FF&label=Profile+Views)](https://github.com/zohaib-md)
+<a href="https://www.linkedin.com/in/mohammad-zohaib-279794204/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://mzohaib.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"></a>
+<a href="https://github.com/zohaib-md"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://github.com/zohaib-md"><img src="https://komarev.com/ghpvc/?username=zohaib-md&style=for-the-badge&color=7F52FF&label=Profile%20Views" alt="Profile views"></a>
 
 </div>
 
@@ -26,8 +26,6 @@ $ cat about.txt
 Hi, I'm **Mohammad Zohaib**. Software developer — I ship across mobile, backend, and AI, and pick up whatever stack the problem needs.
 
 Lately I'm hooked on **AI orchestration** — multi-agent systems that collaborate in production, not just demos.
-
-Kotlin • Laravel • Vue.js • LangGraph
 
 - Currently: **Software Development Intern @ [Hyperzod](https://www.hyperzod.com)** — multi-tenant integrations and multi-agent orchestration
 - Previously: **Android Developer Head @ Lettrblack** — led a team of 5 and shipped production apps
