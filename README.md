@@ -34,9 +34,9 @@ Lately I'm hooked on **AI orchestration** — multi-agent systems that collabora
 
 ---
 
-## `~/` toolbox
+## `~/` toolbox <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28" alt="" />
 
-### Languages
+### <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width="28" alt="" /> Languages
 <p>
   <a href="https://kotlinlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /></a>
   <a href="https://www.java.com" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java" /></a>
@@ -45,17 +45,19 @@ Lately I'm hooked on **AI orchestration** — multi-agent systems that collabora
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" alt="JavaScript" /></a>
 </p>
 
-### Web & Backend
+### <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width="32" alt="" /> Web & Backend
 <p>
   <a href="https://laravel.com" target="_blank"><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" /></a>
   <a href="https://vuejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" /></a>
+  <a href="https://react.dev" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
+  <a href="https://nextjs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" /></a>
   <a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" /></a>
   <a href="https://expressjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=express" alt="Express" /></a>
   <a href="https://pinia.vuejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=pinia" alt="Pinia" /></a>
   <a href="https://tailwindcss.com" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" /></a>
 </p>
 
-### Databases
+### 🗄️ Databases
 <p>
   <a href="https://www.postgresql.org" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" /></a>
   <a href="https://www.mongodb.com" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" /></a>
@@ -64,7 +66,7 @@ Lately I'm hooked on **AI orchestration** — multi-agent systems that collabora
   <a href="https://firebase.google.com" target="_blank"><img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" /></a>
 </p>
 
-### Android
+### <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width="28" alt="" /> Android
 <p>
   <a href="https://developer.android.com/studio" target="_blank"><img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" /></a>
   <a href="https://kotlinlang.org" target="_blank"><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /></a>
@@ -72,7 +74,7 @@ Lately I'm hooked on **AI orchestration** — multi-agent systems that collabora
   <a href="https://gradle.org" target="_blank"><img src="https://skillicons.dev/icons?i=gradle" alt="Gradle" /></a>
 </p>
 
-### Tools
+### <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width="28" alt="" /> Tools
 <p>
   <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>
   <a href="https://github.com" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>
