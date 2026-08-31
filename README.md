@@ -25,6 +25,8 @@ $ cat about.txt
 
 Hi, I'm **Mohammad Zohaib**. Android engineer — I build production apps with Kotlin, Jetpack Compose, and clean architecture.
 
+Lately I'm hooked on **AI orchestration** — multi-agent systems that collaborate in production, not just demos.
+
 Kotlin • Jetpack Compose • MVVM • Clean Architecture
 
 - Currently: **Software Development Intern @ [Hyperzod](https://www.hyperzod.com)** — multi-tenant integrations and multi-agent orchestration
