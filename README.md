@@ -168,9 +168,9 @@ Lately I'm hooked on **AI orchestration** — multi-agent systems that collabora
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/snapshot-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/snapshot-light.svg">
-  <img alt="Mohammad Zohaib snapshot" src="assets/snapshot-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/snapshot-ascii-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/snapshot-ascii-light.svg">
+  <img alt="Mohammad Zohaib snapshot" src="assets/snapshot-ascii-dark.svg" width="100%">
 </picture>
 
 </div>
