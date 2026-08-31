@@ -40,6 +40,10 @@ Lately I'm hooked on **AI orchestration** — multi-agent systems that collabora
 
 ## `~/` toolbox <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28" alt="" />
 
+<div align="center">
+  <img src="assets/lko.gif" width="100%" alt="pixel desk setup">
+</div>
+
 ### Technical Skills
 <div align="center">
   <a href="https://www.python.org" target="_blank"><img src="skills/python.svg" alt="Python" width="50" height="50" /></a>
